@@ -1,0 +1,40 @@
+body {
+    background-color: #F5EFE6; /* Creamy coffee foam color */
+  }
+  
+  .navbar, .btn-primary {
+    background-color: #6F4E37; /* Rich espresso brown */
+    color: #FFD700; /* Golden accents */
+  }
+  
+  .btn-secondary {
+    background-color: #D2691E; /* Earthy chocolate brown */
+    color: #FFD700; /* Golden accents */
+  }
+  
+  h1, h2, h3, h4, h5, h6, p, .text-primary {
+    color: #2C2C2C; /* Dark, velvety brown */
+  }
+  
+  .bg-light {
+    background-color: #F5EFE6 !important; /* Creamy coffee foam color */
+  }
+    
+  .bg-logo {
+    background-color: #F1CD9D !important;
+  }
+  
+  .bg-primary {
+    background-color: #6F4E37 !important; /* Rich espresso brown */
+    color: #FFD700; /* Golden accents */
+  }
+  
+  .accent-color {
+    color: #FFD700; /* Golden accents */
+    border-color: #FFD700;
+  }
+  
+  .text-secondary {
+    color: #D2691E; /* Earthy chocolate brown */
+  }
+  
